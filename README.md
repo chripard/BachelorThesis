@@ -1,8 +1,9 @@
-# Dynamic and Static analysis of Java programs
+**COMPOSITOR** (**COMP**onent c**O**upling di**S**crim**I**na**TO**r using p**R**ofiling)
 
-Thesis for the bachelor degree in Computer Science and Telecommunications,
+
+_Synopsis_
+
+A tool that extracts dynamic coupling relations between the classes of the examined projects.
+
+Developed and used in the thesis for the bachelor degree in Computer Science and Telecommunications,
 Technological Educational Institute of Thessaly, Greece. [2015]
-
-#Synopsis
-
- A tool that extracts dynamic coupling relations between the classes of the examined projects.
